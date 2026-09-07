@@ -21,5 +21,5 @@ AWS • Linux • Docker • Git/GitHub • CI/CD • Terraform
 ⚙️ Evoluir em DevOps e automação
 🏗️ Construir um portfólio sólido
 🔗 Onde me encontrar
-<p align="center"> <a href="SEU_LINKEDIN_AQUI"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/xand1n/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 <p align="center"> <strong>☁️ Cloud • ⚙️ DevOps • 🚀 Automation</strong> </p>
